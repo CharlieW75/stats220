@@ -13,4 +13,6 @@ project1
 
 *Use of italics*
 
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif)
+
 [canvas of uoa](https://canvas.auckland.ac.nz/)
